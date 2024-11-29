@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/Content/StyleSheet1.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            scroll-behavior: smooth;
+            color: #4E2915;
+        }
+
+        html, body {
+            overflow-x: hidden;
+        }
+
+        .navbar-brand, .nav-link {
+            color: black !important;
+        }
+    </style>
+</head>
+<body style="width:100vw; height:100vh; background-color: #f9f9f7;">
+    <header class="d-flex flex-column align-items-center" style="height:20%; width:100%; ">
+        <div class="" style="height:90%; width:100%;">
+            <nav class="navbar navbar-expand-lg d-flex align-items-center" style="height: 100%; width: 100%; display: flex;">
+                <!-- Primeira div -->
+                <div class="collapse navbar-collapse d-flex flex-column" style="flex: 1; height: 100%;">
+                    <ul class="navbar-nav d-flex align-items-center" style="height: 90%; width: 100%;">
+                        <li class="nav-item border border-top-0 border-bottom-0">
+                            <a class="nav-link m-1" href="/Home/About">Quem somos</a>
+                        </li>
+                        <li id="acomCultLink" class="nav-item border border-top-0 border-bottom-0">
+                            <a id="acomCultivo" class="nav-link m-1" href="#">Acompanhar Cultivo</a>
+                        </li>
+                    </ul>
+                    <div class="rounded" style="height: 10%; width: 100%; background-color: #4E2915;"></div>
+                </div>
+
+                <!-- Link central -->
+                <a class="nav-link d-flex align-items-center justify-content-center" href="/" style="flex: 1; height: 100%;">
+                    <img src="~/wwwroot/imagens/logo.png" style="height: 150%;" />
+                </a>
+
+                <!-- Segunda div -->
+                <div class="collapse navbar-collapse d-flex flex-column align-items-end" style="flex: 1; height: 100%;">
+                    <ul class="navbar-nav d-flex align-items-center justify-content-end" style="height: 100%; width: 100%;">
+                        <li class="nav-item border border-top-0 border-bottom-0 d-flex align-items-center">
+                            <a class="nav-link m-1" href="/Home/LoginPage">
+                                <i class="fa-solid fa-user" style="padding-right: 5px;"></i>
+                                <span>Entrar</span>
+                            </a>
+                        </li>
+                        <li class="nav-item border border-top-0 border-bottom-0 d-flex align-items-center">
+                            <a class="nav-link m-1" href="/Home/RegistrarPage">
+                                <i class="fa-solid fa-user" style="padding-right: 5px;"></i>
+                                <span>Registre-se</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="rounded" style="height: 10%; width: 100%; background-color: #4E2915;"></div>
+                </div>
+            </nav>
+        </div>
+
+    </header>
+    <main style="height: 75%; width: 100%;">
+        @RenderBody()
+    </main>
+
+
+    <footer style="height: 5%; width: 100%; background-color: #4E2915;"></footer>
+    <script>
+        const linkAcompCultiv = document.getElementById('acomCultivo');
+
+        linkAcompCultiv.addEventListener('click', verificarValidação);
+
+        function verificarValidação(event) {
+            event.preventDefault();
+
+            const isLoggedIn = localStorage.getItem('isLoggedIn');
+
+            if (isLoggedIn === 'true') {
+                window.location.href = '/Home/AcompanharCultivo';
+            } else {
+                window.location.href = '/Home/LoginPage';
+            }
+        }
+    </script>
+    <!-- Script do JQuery-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- Script do Toastr -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+</body>
+</html>

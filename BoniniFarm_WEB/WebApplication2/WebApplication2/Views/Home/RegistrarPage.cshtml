@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Registrar";
+}
+
+@model Cliente
+
+<div class="d-flex flex-column" style="width: 100%; height: 100%;">
+    <span class="h1 text-center pt-3" style="color:#4E2915;">REGISTRE-SE</span>
+    <form method="post" action="/Home/Registrar" class="d-flex flex-column align-items-center mt-3" style="width: 100%; height: 100%;">
+        <div class="d-flex justify-content-center" style="width: 70%; gap: 5rem;">
+            <div class="form-group" style="width: 40%;">
+                <label for="Nome">Nome Completo:</label>
+                <input type="text" class="form-control shadow-sm" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" id="Nome" name="Nome" required />
+            </div>
+            <div class="form-group" style="width: 40%;">
+                <label for="Email">E-mail:</label>
+                <input type="email" class="form-control shadow-sm" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" id="Email" name="Email" required />
+            </div>
+        </div>
+        <div class="d-flex justify-content-center" style="width: 70%; gap: 5rem;">
+            <div class="form-group" style="width: 40%;">
+                <label for="Cpf">Informe CPF:</label>
+                <input type="text" class="form-control shadow-sm" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" id="Cpf" name="Cpf" required />
+            </div>
+            <div class="form-group" style="width: 40%;">
+                <label for="Senha">Senha:</label>
+                <input type="password" class="form-control shadow-sm" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" id="Senha" name="Senha" required />
+            </div>
+        </div>
+        <div class="d-flex justify-content-center align-items-end" style="width: 70%; gap: 5rem;">
+            <div class="form-group" style="width: 40%;">
+                <label for="Cnpj">CNPJ (Não Obrigatório):</label>
+                <input type="text" class="form-control shadow-sm" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" id="Cnpj" name="Cnpj" />
+            </div>
+
+            <button type="submit" class="btn mb-3" style="width: 40%; height: 45%; background-color: #4E2915; color: #FFFFFF;">Registrar</button>
+        </div>
+
+    </form>
+</div>

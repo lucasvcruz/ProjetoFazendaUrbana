@@ -1,0 +1,84 @@
+﻿@{
+    @ViewData["Title"]
+}
+
+@model IEnumerable<Funcionario>
+
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/324b71f187.js" crossorigin="anonymous"></script>
+        <title>Login</title>
+    </head>
+    <body style="font-family:sans-serif;">
+        <main class="d-flex flex-column align-items-center justify-content-center p-4" style="min-height:100%; height: fit-content; width:100%;">
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+            }
+            <p>Faça Login para acompanhar as informações de cultivo</p>
+            <div style="background-color: #4E2915; height: 0.2rem; width: 50%;"></div>
+            <div style="width: 100%;" class="d-flex flex-column align-items-center">
+                <form method="post" action="/Home/Login" id="loginForm" class="p-4" style="width:40%;">
+                    <div class="form-group">
+                        <label for="username" class="" style="font-weight: bold; font-size: 1.2rem;">Usuário:</label>
+                        <input type="text" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" class="form-control shadow-sm" id="username" name="username" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="password" style="font-weight: bold; font-size: 1.2rem;">Senha:</label>
+                        <input type="password" style="background-color: #D9D9D9; border-color: black; border-width: 1px;" class="form-control shadow-sm" id="password" name="password" required />
+                    </div>
+                    <div class="d-flex flex-inline" style="width:100%; gap: 10%;">
+                        <button type="submit" id="registrarBtn" class="btn border rounded" style="color: #4E2915; width: 40%; border-color: #4E2915;">Registre-se</button>
+                        <button type="submit" name="acao" value="Login" id="login_bt" class="btn" style="background-color: #4E2915; color: #ffffff; width: 50%;">Login</button>
+                    </div>
+                </form>
+            </div>
+            <!--<div style="background-color:tomato; height: 400px; width: 300px;"></div>-->
+        </main>
+        <footer>
+        </footer>
+        <script>
+            localStorage.setItem("isLoggedIn", "false")
+            document.getElementById("login_bt").addEventListener("submit", function (event) {
+                event.preventDefault(); // Evita o envio tradicional do formulário
+
+                // Captura os valores do formulário
+                const username = document.getElementById("username").value;
+                const password = document.getElementById("password").value;
+
+                // Envia a solicitação ao servidor
+                fetch("/HomeController/Login", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ username, password })
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.sucesso) {
+                            // Armazena no localStorage
+                            localStorage.setItem("isLoggedIn", "true");
+                            localStorage.setItem("username", username);
+
+                            // Redireciona para a página inicial
+                            window.location.href = "/Home/AcompanharCultivo";
+                        } else {
+                            // Remove o estado de login no caso de falha
+                            localStorage.removeItem("isLoggedIn");
+                            localStorage.removeItem("username");
+                        }
+                    })
+                    .catch(error => console.error("Erro ao tentar fazer login:", error));
+            });
+            const btnRegistrar = document.getElementById('registrarBtn')
+            btnRegistrar.addEventListener('click', () => {
+                window.location.href = '/Home/RegistrarPage';
+            });
+        </script>
+    </body>
+</html>

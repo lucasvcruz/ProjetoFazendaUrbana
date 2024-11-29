@@ -1,0 +1,204 @@
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.exe
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.deps.json
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.runtimeconfig.json
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.Properties.Resources.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaHome.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaLogin.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaPlantio.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProducao.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProduto.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaVenda.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfo.cs
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFa.2C726069.Up2Date
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\refint\BoniniFarm2.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.genruntimeconfig.cache
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\ref\BoniniFarm2.dll
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaFornecedor.resources
+C:\Users\lucas\Downloads\PIM 4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaRH.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.exe
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.deps.json
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.ImagemProduto.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaConfirmarPedido.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaFornecedor.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaGerencialVendas.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaHome.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaLogin.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaPlantio.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProducao.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProduto.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaRH.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaVenda.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFa.2C726069.Up2Date
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\refint\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\Desktop\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\ref\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.exe
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.deps.json
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.ImagemProduto.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaConfirmarPedido.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaFornecedor.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaGerencialVendas.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaHome.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaLogin.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaPlantio.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProducao.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaProduto.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaRH.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.TelaVenda.resources
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFa.2C726069.Up2Date
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\refint\BoniniFarm2.dll
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.pdb
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\BoniniFarm2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\UNIP\ANALISES E DESENVOLVIMENTO DE SISTEMAS\PIMs\4° SEMESTRE\1. DESKTOP\Aplicacao\BoniniFarm2\obj\Debug\net8.0-windows\ref\BoniniFarm2.dll

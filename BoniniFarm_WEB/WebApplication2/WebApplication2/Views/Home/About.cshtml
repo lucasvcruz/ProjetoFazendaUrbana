@@ -1,0 +1,54 @@
+﻿@{
+    <!DOCTYPE html>
+    <html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewData["Title"]</title>
+        <style>
+            /* Centraliza o título */
+            h1 {
+                text-align: center;
+                margin-top: 20px; /* Adiciona um espaçamento superior */
+            }
+        </style>
+    </head>
+    <body style="">
+        <h1>@ViewData["Title"]</h1>
+    </body>
+</html>
+
+}
+
+@model IEnumerable<Funcionario>
+<main class="d-flex flex-column justify-content-center" style="height: 65vh; width: 100%;">
+    <div class="d-flex justify-content-center align-items-center" style="height: 100%; width: 100%; gap: 2rem;">
+        <div class="d-flex flex-column justify-content-between align-items-center" style="height: 90%; width: 25%; gap: 2rem;">
+            <span>VISÃO</span>
+            <div style="width: 17rem; height: 17rem; overflow: hidden;">
+                <img src="~/wwwroot/imagens/About1.jpeg" style="width: 100%; height: 100%; object-fit: cover;" />
+            </div>
+            <span class="text-center">Ser excelência no ramo de produção de alimentos orgânicos.</span>
+        </div>
+        <div style="height: 80%; width: 0.25rem; background-color: #4E2915;"></div>
+        <div class="d-flex flex-column justify-content-between align-items-center" style="height: 90%; width: 25%; gap: 2rem;">
+            <span>MISSÃO</span>
+            <div style="width: 17rem; height: 17rem; overflow: hidden;">
+                <img src="~/wwwroot/imagens/About2.jpeg" style="width: 100%; height: 100%; object-fit: cover;" />
+            </div>
+            <span class="text-center">Produzir e comercializar os melhores produtos alimentícios da região de São Paulo, com elevados padrões e qualidade, sabor e aroma.</span>
+        </div>
+        <div style="height: 80%; width: 0.25rem; background-color: #4E2915;"></div>
+        <div class="d-flex flex-column justify-content-between align-items-center" style="height: 90%; width: 25%; gap: 2rem;">
+            <span>VALORES</span>
+            <div style="width: 17rem; height: 17rem; overflow: hidden;">
+                <img src="~/wwwroot/imagens/About3.jpeg" style="width: 100%; height: 100%; object-fit: cover;" />
+            </div>
+            <span class="text-center">Honestidade, transparência, respeito, qualidade e união.</span>
+        </div>
+    </div>
+    
+</main>
+
+
+
